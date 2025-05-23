@@ -1,10 +1,10 @@
-# AgentOps Groq Conversable Agent
+# 🤖 AgentOps Groq Conversable Agent
 
 A Python project demonstrating how to create a conversational AI agent using [AgentOps](https://app.agentops.ai/), [Autogen](https://github.com/autogenai/autogen), and Groq’s LLM API. The agent interacts via chat and leverages the Groq `llama3-8b-8192` model for generating responses.
 
 ---
 
-## Features
+## ✨ Features
 
 * Initialize and configure AgentOps session with Groq API keys.
 * Use `ConversableAgent` and `UserProxyAgent` from Autogen for chat simulation.
@@ -14,14 +14,14 @@ A Python project demonstrating how to create a conversational AI agent using [Ag
 
 ---
 
-## Requirements
+## 🛠️ Requirements
 
 * Python 3.8 or above
 * See [`requirements.txt`](./requirements.txt) for Python dependencies
 
 ---
 
-## Installation
+## 🚀 Installation
 
 1. Clone the repository:
 
@@ -59,7 +59,7 @@ A Python project demonstrating how to create a conversational AI agent using [Ag
 
 ---
 
-## Usage
+## 💬 Usage
 
 Run the main script to start a chat interaction where the agent responds to a prompt:
 
@@ -77,7 +77,7 @@ You will see the agent’s response printed in the console.
 
 ---
 
-## Code Overview
+## 📂 Code Overview
 
 * **agentsops.py**: Main script initializing AgentOps, setting up Groq API integration, and creating conversational agents.
 * Uses Autogen’s `ConversableAgent` and `UserProxyAgent` classes for simulating the conversation.
@@ -85,7 +85,7 @@ You will see the agent’s response printed in the console.
 
 ---
 
-## Available Models
+## 🧩 Available Models
 
 Some Groq models you can experiment with (ensure your API key has access):
 
@@ -100,7 +100,7 @@ Some Groq models you can experiment with (ensure your API key has access):
 
 ---
 
-## Troubleshooting
+## 🛠️ Troubleshooting
 
 * **401 Invalid API Key**: Check your API keys in environment variables and ensure they are correct.
 * **Model decommissioned**: Some models may be deprecated. Use the recommended models listed above.
