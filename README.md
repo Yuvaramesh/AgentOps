@@ -57,7 +57,6 @@ A Python project demonstrating how to create a conversational AI agent using [Ag
    setx AGENTOPS_API_KEY "your_agentops_api_key_here"
    setx GROQ_API_KEY "your_groq_api_key_here"
    ```
-
 ---
 
 ## 💬 Usage
