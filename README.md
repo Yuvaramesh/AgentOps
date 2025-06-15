@@ -30,7 +30,6 @@ A Python project demonstrating how to create a conversational AI agent using [Ag
    cd agentops-groq-agent
    ```
 
-
 2. (Optional) Create and activate a virtual environment:
 
    ```bash
